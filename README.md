@@ -8,5 +8,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pravingupta278&show_icons=true&locale=en&layout=compact" alt="pravingupta278" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravingupta278&show_icons=true&locale=en" alt="pravingupta278" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pravingupta278&" alt="pravingupta278" /></p>
